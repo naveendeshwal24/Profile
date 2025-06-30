@@ -1,5 +1,5 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<div id="header" align="center">
+  <img width="300" height="300"src="https://media0.giphy.com/media/3o7qE1YN7aBOFPRw8E/200.webp?cid=ecf05e47pqy6036k39o5i4ntdsgfmiambpb20tgoxvvt9ul0&rid=200.webp&ct=g" width="100"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Naveen Deshwal</h1>
