@@ -29,10 +29,4 @@
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/naveendeshwal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/naveendeshwal" /></a></p><br><br>
 
 
-<h3 align="left">🔥 My Stats :</h3>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
